@@ -3,9 +3,6 @@
 
 package cisco.java.challenge.counter;
 
-
-import cisco.java.challenge.counter.Counter;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Matcher;
