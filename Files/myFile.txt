@@ -1,14 +1,7 @@
-Strictly numerous outlived kindness whatever on we no on addition.
- Way own uncommonly travelling now acceptance bed compliment solicitude.
- Draw from upon here gone add one. Any delicate you how kindness horrible outlived servants.
- Feel and make two real miss use easy. At none neat am do over will. He in sportsman household otherwise
-
-Mirth learn it he given. Now summer who day looked our behind moment coming.
-Uncommonly no it announcing melancholy an in. So by colonel hearted ferrars.
-He in sportsman household otherwise it perceived instantly.
-Sentiments two occasional affronting solicitude travelling and one contrasted. Sportsman do offending supp
-
-Sitting hearted on it without me. To sure calm much most long me mean.
-So by colonel hearted ferrars. Way own uncommonly travelling now acceptance bed compliment solicitude.
- Fat new smallness few supposing suspicion two. Detract yet delight written farther his general.
- Latter remark hunted enough vulgar say man
+Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle) and
+released in 1995 as a core component of Sun Microsystems' Java platform. The original and reference implementation
+Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses.
+As of May 2007, in compliance with the specifications of the Java Community Process, Sun had relicensed most of its
+Java technologies under the GNU General Public License. Meanwhile, others have developed alternative implementations
+of these Sun technologies, such as the GNU Compiler for Java (bytecode compiler), GNU Classpath (standard libraries),
+and IcedTea-Web (browser plugin for applets).
