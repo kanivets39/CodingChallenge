@@ -27,7 +27,7 @@ public class Main {
         GraphNode nodeG = new GraphNode("G");
         GraphNode nodeH = new GraphNode("H");
         GraphNode nodeI = new GraphNode("I");
-        GraphNode nodeJ = new GraphNode("J");
+
 
 
         //set children nodes
@@ -39,9 +39,6 @@ public class Main {
 
         GNode[] childrenOfNodeC = new GNode[]{nodeG, nodeH, nodeI};
         nodeC.setChildren(childrenOfNodeC);
-
-        GNode[] childrenOfNodeD = new GNode[]{nodeJ};
-        nodeD.setChildren(childrenOfNodeD);
 
 
 
